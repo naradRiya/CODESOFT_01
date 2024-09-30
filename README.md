@@ -1,4 +1,4 @@
-# CODES_OF_01
+# CODESOFT_01
 def calculate(n1,n2,op):
     if op == '+':
         result = n1+n2
